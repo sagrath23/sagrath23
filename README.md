@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Steven Villegas, a very passionate dev from Cali, Colombia. I love to write code, drink beer, play bass guitar and spend time with my beautiful family.
+I'm Steven Villegas, a Full-Stack Developer, currently based in Cali (Colombia). I love everything that has to do with Computer Science, Web design & development.
+
+I love to write code, drink beer, play bass guitar and spend time with my beautiful family.
 
 <!--
 **sagrath23/sagrath23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
