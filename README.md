@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Steven Villegas, a Full-Stack Developer, currently based in Cali (Colombia). I love everything that has to do with Computer Science, Web design & development.
+I'm Steven Villegas, a Full-Stack Developer, currently based in Cali (Colombia). I love everything that has to do with Computer Science, Web design & software development.
 
 I love to write code, drink beer, play bass guitar and spend time with my beautiful family.
 
